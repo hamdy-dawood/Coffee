@@ -1,16 +1,8 @@
 # coffee
 
-A new Flutter project.
+## Preview
+* https://www.instagram.com/p/CeecPoqN1k9/?utm_source=ig_web_copy_link
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Links
+* [My Socials](https://znap.link/hamdy_Dawood)
+* [Instagram](https://www.instagram.com/hamdy_khalid_)
